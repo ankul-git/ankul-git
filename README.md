@@ -9,7 +9,7 @@
 
 🚀 Building scalable monitoring solutions with **Prometheus, Grafana & Kubernetes**  
 🌍 **Open to remote opportunities in the US** (Experienced with async collaboration)  
-💼 DevOps Engineer with **1-2 years production experience** + Android platform engineering background  
+💼 DevOps Engineer with ** Years production experience** + Android platform engineering background  
 🔧 Specialized in infrastructure automation, observability, and cloud-native technologies  
 
 ---
@@ -101,10 +101,6 @@ This unique background gives me expertise in infrastructure reliability and syst
 ---
 
 ## 📊 GitHub Stats
-
-![Ankul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankul-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankul-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankul-git&theme=radical&hide_border=true&background=0D1117)
 
