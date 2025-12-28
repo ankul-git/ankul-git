@@ -1,4 +1,7 @@
-![Banner](./banner.png)
+<div align="center">
+  <img src="./banner.png" alt="Banner" height="180">
+</div>
+
 
 # Hi there, I'm Ankul 👋
 
