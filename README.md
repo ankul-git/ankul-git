@@ -102,7 +102,12 @@ This unique background gives me expertise in infrastructure reliability and syst
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankul-git&theme=radical&hide_border=true&background=0D1117)
+## 📊 GitHub Stats
+
+![Ankul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankul-git&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ankul-git&theme=radical&hide_border=true&background=0D1117)
+
 
 ---
 
