@@ -99,10 +99,10 @@
 This unique background gives me expertise in infrastructure reliability and systems-level troubleshooting that most DevOps engineers lack.
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ankul-git&theme=radical&hide_border=true&background=0D1117)
+![Ankul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankul-git&show_icons=true&theme=tokyonight)
+
 
 
 
